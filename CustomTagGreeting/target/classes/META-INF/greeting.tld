@@ -1,0 +1,11 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Greeting</short-name>
+    <uri>http://matc.edu/tags</uri>
+    <tag>
+        <name>greet</name>
+        <tag-class>edu.matc.CustomTagGreeting.GreetingBasedOnTime</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
